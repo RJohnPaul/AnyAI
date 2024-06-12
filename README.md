@@ -2,6 +2,8 @@
 
 ![](https://github.com/RJohnPaul/AnyAI/blob/c7408f4ee18326098ed85602ee374c77bfce59c4/2560x1600%20(8).png)
 
+![](https://github.com/RJohnPaul/AnyAI/blob/c7408f4ee18326098ed85602ee374c77bfce59c4/2560x1600%20(8).png)
+
 AnyAI is a versatile AI tool that integrates Google Gemini and Google Vision APIs to provide powerful content generation and image classification capabilities. This repository contains the source code for the AnyAI web application built using Streamlit.
 
 ## Features
