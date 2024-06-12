@@ -1,6 +1,3 @@
-Sure! Here is an example of a GitHub README for the AnyAI project:
-
-```markdown
 # AnyAI 🚀🤖
 
 AnyAI is a versatile AI tool that integrates Google Gemini and Google Vision APIs to provide powerful content generation and image classification capabilities. This repository contains the source code for the AnyAI web application built using Streamlit.
