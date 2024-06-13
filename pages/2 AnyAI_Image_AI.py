@@ -30,7 +30,7 @@ def home():
     genai.configure(api_key=api_key)
 
     
-    model = 'gemini-pro-vision' 
+    model = 'gemini-1.5-flash' 
     # Sidebar option to choose image source
     image_source = st.sidebar.radio("Choose Image Source:", ["URL", "Upload"])
     prompt = st.text_input("Enter your Query:")
